@@ -19,24 +19,12 @@
 - **Stack**: Deno, TypeScript, Hono, PostgreSQL, Drizzle ORM, Valkey/Redis, BullMQ, PyTorch, ONNX, Docker, Kubernetes
 ---
 ### Before Genation
-| Venture | What | Traction |
-|---|---|---|
-| **HippoPenny LLC** (US) | AI-powered mobile game studio | Wacky Warper (and more): 200K+ downloads |
-| **Laristo LTD** (UK) | Social platform for perfume enthusiasts | perfumerates.com — 92K perfume dataset, 40K daily organic visits (US-heavy), 1.2M monthly requests |
-| **E-commerce** | Facebook-based online business | 300K-member community |
+| Venture | Role | What | Traction |
+|---|---|---|---|
+| **HippoPenny LLC** (US) | Co-founder | AI-powered mobile game studio | Wacky Warper (and more): 200K+ downloads |
+| **Laristo LTD** (UK) | CEO | Social platform for perfume enthusiasts | perfumerates.com — 92K perfume dataset, 40K daily organic visits (US-heavy), 1.2M monthly requests |
 
 Each one shipped, got real users, generated revenue, and taught me something about building products people actually use.
-
----
-
-### Competitive Programming
-<p>
-  <img src="https://img.shields.io/badge/ICPC-National%20Silver-blue" alt="ICPC Silver">
-  <img src="https://img.shields.io/badge/Provincial%20Champion-2×%20Gold-gold" alt="Provincial Champion">
-  <img src="https://img.shields.io/badge/Olympic%2030%2F4-2×%20Gold-gold" alt="Olympic 30/4">
-  <img src="https://img.shields.io/badge/National%20Youth%20Informatics-2nd%20Prize-silver" alt="Youth Informatics">
-</p>
-Represented Vietnam in algorithmic competitions across high school and university. ICPC Vietnam National Silver (top ~30 teams out of 300+). Consistent podium finisher at national and regional levels over multiple years.
 
 ---
 
